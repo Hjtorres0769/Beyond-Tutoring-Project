@@ -4,6 +4,10 @@ a {
 }
 .title-image {
   background-image: url("https://media.istockphoto.com/id/187244393/photo/we-will-get-to-the-right-answer-eventually.jpg?s=612x612&w=0&k=20&c=sv85YclfSvJwBzxHipFN5YSNIDSU6YXe8skqZb6QVjw=");
+  height: 410px;
+  background-position: left;
+  background-repeat: no-repeat;
+  border-radius: 15px;
 }
 
 nav {
